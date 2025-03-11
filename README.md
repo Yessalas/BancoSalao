@@ -1,4 +1,4 @@
-# BancoSalao
+# Banco Salao
 
 ### Imagem do banco de Dados
 <div align="center">
